@@ -1,1 +1,1 @@
-Moves: Flamethrower
+Moves: Flamethrower, Thunderbolt
